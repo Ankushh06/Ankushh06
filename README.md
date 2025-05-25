@@ -30,7 +30,7 @@
 ## My Top Languages 🔼
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushh06&theme=dark&langs_count=10)
 
-## My Streak 📉
+## My Streak 📈
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ankushh06&theme=dark)
 
 ## My Contribution Graph 🙌
